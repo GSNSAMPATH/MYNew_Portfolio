@@ -32,7 +32,9 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <img src="/imgs/portfolio/1.jpg" alt="portfolio" />
+                  <Image src="/imgs/portfolio/1.jpg" alt="portfolio"  
+                    width={300}
+                    height={200}/>
                 </div>
                 <div className="portfolio-info">
                   <h4>Web Design</h4>

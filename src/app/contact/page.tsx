@@ -17,7 +17,7 @@ const Contact: NextPage = () => {
                 <i className="fa fa-map-marker" />
               </div>
               <h4>Address</h4>
-              <p>"Rthna" Nivasa,Hulankanda, Dhampahala,Matara</p>
+              <p>Rthna Nivasa,Hulankanda, Dhampahala,Matara</p>
             </div>
             {/* contact-info-item Ended */}
             {/* contact-info-item */}
