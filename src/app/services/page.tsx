@@ -23,7 +23,7 @@ const Service: NextPage = () => {
       </div>
       {/* Service Item 1 End */}
       {/* Service Item 2: Web Design */}
-      <div className="service-item padd-15">
+      {/* <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-laptop" /></div>
           <h4>Custom Web Design</h4>
@@ -32,10 +32,10 @@ const Service: NextPage = () => {
             looks impressive but also delivers a seamless user experience, helping you achieve your online goals.
           </p>
         </div>
-      </div>
+      </div> */}
       {/* Service Item 2 End */}
       {/* Service Item 3: WordPress */}
-      <div className="service-item padd-15">
+      {/* <div className="service-item padd-15">
         <div className="service-item-inner">
           <div className="icon"><i className="fa fa-wordpress" /></div>
           <h4>WordPress Development</h4>
@@ -43,7 +43,7 @@ const Service: NextPage = () => {
             WordPress site that empowers you to manage content effortlessly and stay ahead in the digital
             landscape.</p>
         </div>
-      </div>
+      </div> */}
       {/* Service Item 3 End */}
       {/* Service Item 4: Web Development */}
       <div className="service-item padd-15">

@@ -104,6 +104,34 @@ const About: NextPage = () => {
                       </div>
                     </div>
                     <div className="skill-item padd-15">
+                      <h5>React js</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>react native</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
+                      <h5>DotNet Framework</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                      <div className="skill-item padd-15">
+                      <h5>Next js</h5>
+                      <div className="progress">
+                        <div className="progress-in" style={{ width: "80%" }} />
+                        <div className="skill-percent">80%</div>
+                      </div>
+                    </div>
+                    <div className="skill-item padd-15">
                       <h5>sql</h5>
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
@@ -208,12 +236,14 @@ const About: NextPage = () => {
                         <div className="timeline-item">
                           <div className="circle-dot" />
                           <h6 className="timeline-date">
-                            <i className="fa fa-calendar" /> 2020 to Present
+                            <i className="fa fa-calendar" /> 2022 to Present
                           </h6>
-                          <h4 className="timeline-title">Wordpress</h4>
+                          <h4 className="timeline-title">Mobile Development</h4>
                           <p className="timeline-text">
-                            Since 2023 I started to learn Wordpress. I can
-                            install, Customize, &amp; fix bug on wordpress.{" "}
+                              Since 2023, I have been developing mobile applications
+                              using tools like React Native and Flutter. 
+                              I build responsive, cross-platform apps for both Android
+                              and iOS.{" "}
                           </p>
                         </div>
                         {/* Timeline Item end */}

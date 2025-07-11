@@ -32,55 +32,87 @@ const Portfolio: NextPage = () => {
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                  <Image src="./imgs/portfolio/1.jpg" alt="portfolio"  
+                  <Image src="./imgs/portfolio/YDF.jpg" alt="portfolio"  
                     width={300}
                     height={200}/>
                 </div>
                 <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
-                  </div>
+                  <h4>Mobile App</h4>
+      <div className="icon">
+        {/* Optional: View Project Icon */}
+        <a
+          href="https://github.com/GSNSAMPATH/YFD"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="portfolio-link"
+        >
+          <i className="fa fa-github" style={{ fontSize: '24px', color: '#000' }} />
+        </a>
+      </div>
                 </div>
               </div>
             </div>
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                <Image src="./imgs/portfolio/2.jpg" alt="portfolio" 
-                    width={300}
-                    height={200} />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
-                  </div>
-                </div>
-              </div>
-            </div>
+           {/* Portfolio Item */}
+<div className="portfolio-item padd-15" data-category="web-design">
+  <div className="portfolio-item-inner shadow-dark">
+    <div className="portfolio-img">
+      <Image
+        src="./imgs/portfolio/pita web.png"
+        alt="portfolio"
+        width={300}
+        height={200}
+      />
+    </div>
+    <div className="portfolio-info">
+      <h4>Web</h4>
+      <div className="icon">
+        {/* Optional: View Project Icon */}
+        <a
+          href="https://github.com/GSNSAMPATH/FHSSAsosiationNews"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="portfolio-link"
+        >
+          <i className="fa fa-github" style={{ fontSize: '24px', color: '#000' }} />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="web-design">
-              <div className="portfolio-item-inner shadow-dark">
-                <div className="portfolio-img">
-                <Image src="./imgs/portfolio/3.jpg" alt="portfolio" 
-                    width={300}
-                    height={200} />
-                </div>
-                <div className="portfolio-info">
-                  <h4>Web Design</h4>
-                  <div className="icon">
-                    <i className="fa fa-search" />
-                  </div>
-                </div>
-              </div>
-            </div>
+<div className="portfolio-item padd-15" data-category="web-design">
+  <div className="portfolio-item-inner shadow-dark">
+    <div className="portfolio-img">
+      <Image
+        src="./imgs/portfolio/Screenshot (101).png"
+        alt="portfolio"
+        width={300}
+        height={200}
+      />
+    </div>
+    <div className="portfolio-info">
+      <h4>Web</h4>
+      <div className="icon">
+        <a
+          href="https://github.com/Kisara2001/WAD_final_project/tree/main"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="portfolio-link"
+        >
+          <i className="fa fa-github"style={{ fontSize: '24px', color: '#000' }} />
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
-            <div
+            {/* <div
               className="portfolio-item padd-15"
               data-category="graphics-design"
             >
@@ -97,10 +129,10 @@ const Portfolio: NextPage = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
-            <div className="portfolio-item padd-15" data-category="wordpress">
+            {/* <div className="portfolio-item padd-15" data-category="wordpress">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
                 <Image src="./imgs/portfolio/5.jpg" alt="portfolio" 
@@ -114,13 +146,13 @@ const Portfolio: NextPage = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
             {/* Portfolio Item End*/}
             {/* Portfolio Item */}
             <div className="portfolio-item padd-15" data-category="web-design">
               <div className="portfolio-item-inner shadow-dark">
                 <div className="portfolio-img">
-                <Image src="./imgs/portfolio/6.jpg" alt="portfolio" 
+                <Image src="./imgs/portfolio/Screenshot (103).png" alt="portfolio" 
                     width={300}
                     height={200} />
                 </div>
